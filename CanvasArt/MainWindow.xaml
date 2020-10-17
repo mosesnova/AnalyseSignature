@@ -10,5 +10,6 @@
         <Canvas.Background>
             <SolidColorBrush Color="White" Opacity="0"/>
         </Canvas.Background>
+        <Button Content="Analyze" Canvas.Left="329" Canvas.Top="362" Width="75"/>
     </Canvas>
 </Window>
